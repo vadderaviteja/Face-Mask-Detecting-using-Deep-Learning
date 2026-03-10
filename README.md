@@ -111,7 +111,7 @@ The model was evaluated using the following metrics:
 After training, the model weights are saved as:
 
 ```
-mask_model1.pth
+mask_model1.pth1
 ```
 
 This file contains the trained model parameters which are used during deployment.
